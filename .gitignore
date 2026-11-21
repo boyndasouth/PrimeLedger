@@ -1,0 +1,61 @@
+# ---- Secrets -------------------------------------------------------------
+# Never commit real credentials. The *.example files are templates and stay.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---- Python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ---- Local database ------------------------------------------------------
+# SQLite is for local dev only; production uses Postgres.
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# ---- Node / frontend -----------------------------------------------------
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Hosting tools -------------------------------------------------------
+.vercel/
+.render/
+
+# ---- Logs ----------------------------------------------------------------
+logs/
+*.log
+
+# ---- Editors / OS --------------------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kept on purpose (do NOT ignore):
+#   .bob/                    - shared IBM Bob project rules
+#   backend/data/samples/    - committed demo dataset (SPEC.md section 12)

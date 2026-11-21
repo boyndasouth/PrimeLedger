@@ -1,0 +1,2636 @@
+{
+  "pairs": [
+    {
+      "bank_ids": [
+        "B0001FD0TVB"
+      ],
+      "gl_ids": [
+        "G0001DIVUZZ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0002CKW5NG"
+      ],
+      "gl_ids": [
+        "G0002CX1945"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0003IBLJH7"
+      ],
+      "gl_ids": [
+        "G00035LXO6Q"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B000484AZYT"
+      ],
+      "gl_ids": [
+        "G0004JXEPQ8"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0005IIUC03"
+      ],
+      "gl_ids": [
+        "G00059TEX8F"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0006I64CIY"
+      ],
+      "gl_ids": [
+        "G0006HE7UR2"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0007P5TB94"
+      ],
+      "gl_ids": [
+        "G0007874FRH"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0008VS4F8C"
+      ],
+      "gl_ids": [
+        "G0008GVYIE6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0009TSEMCI"
+      ],
+      "gl_ids": [
+        "G0009KPTK93"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0010BME9FP"
+      ],
+      "gl_ids": [
+        "G0010ZUE8YF"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00115A0L72"
+      ],
+      "gl_ids": [
+        "G001153J2D5"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0012G8JDP0"
+      ],
+      "gl_ids": [
+        "G0012LVSNUJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0013GXN0GU"
+      ],
+      "gl_ids": [
+        "G0013O4KH2V"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0014Q5UZNO"
+      ],
+      "gl_ids": [
+        "G0014FY6452"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0015Q14J1R"
+      ],
+      "gl_ids": [
+        "G0015IPZIM6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B001648P0TV"
+      ],
+      "gl_ids": [
+        "G0016HHPBMY"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0017JCAT9M"
+      ],
+      "gl_ids": [
+        "G0017X2X18H"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0018OZCYWD"
+      ],
+      "gl_ids": [
+        "G001814VE92"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0019LI7KQ1"
+      ],
+      "gl_ids": [
+        "G0019UYMRLR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0020XNTM9T"
+      ],
+      "gl_ids": [
+        "G0020MQLIZL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0021W1DAKR"
+      ],
+      "gl_ids": [
+        "G0021M8J5EC"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0022V08HHX"
+      ],
+      "gl_ids": [
+        "G0022FGCAQV"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0023PQKOJT"
+      ],
+      "gl_ids": [
+        "G0023PV60VA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0024Y4LYK8"
+      ],
+      "gl_ids": [
+        "G00243TQLL8"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0025ZLAOI4"
+      ],
+      "gl_ids": [
+        "G0025E8XF7K"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00265QRL1N"
+      ],
+      "gl_ids": [
+        "G0026759IN4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0027C2JWOC"
+      ],
+      "gl_ids": [
+        "G0027LYT8W5"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0028IOYGGV"
+      ],
+      "gl_ids": [
+        "G0028NYRUIW"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00299K9XJU"
+      ],
+      "gl_ids": [
+        "G0029Y0BVR6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0030GET8T6"
+      ],
+      "gl_ids": [
+        "G00303J3R30"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0031DIA5U6"
+      ],
+      "gl_ids": [
+        "G0031HC36KO"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0032BNP84D"
+      ],
+      "gl_ids": [
+        "G0032YT9MOG"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0033J99T2D"
+      ],
+      "gl_ids": [
+        "G00335EM2VA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0034PDZP6L"
+      ],
+      "gl_ids": [
+        "G0034FEWVZN"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00358YRDDP"
+      ],
+      "gl_ids": [
+        "G00350NEC8U"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0036493WXA"
+      ],
+      "gl_ids": [
+        "G003673JGZL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0037YJXRPJ"
+      ],
+      "gl_ids": [
+        "G00371EPKYR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0038PQCLPO"
+      ],
+      "gl_ids": [
+        "G0038XKO8G8"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0039IFHV1X"
+      ],
+      "gl_ids": [
+        "G0039G1R11Q"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0040WSQT26"
+      ],
+      "gl_ids": [
+        "G0040Q3XLRF"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0041CDYK0X"
+      ],
+      "gl_ids": [
+        "G004165MUFM"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0042M1G9FK"
+      ],
+      "gl_ids": [
+        "G00422ST0SX"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00436GYUP1"
+      ],
+      "gl_ids": [
+        "G00432SPFHV"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0044I9NB74"
+      ],
+      "gl_ids": [
+        "G0044X2EK3Z"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0045VASIFP"
+      ],
+      "gl_ids": [
+        "G0045WIOXD9"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00463G2QZW"
+      ],
+      "gl_ids": [
+        "G00463C1QKB"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0047YN2JCP"
+      ],
+      "gl_ids": [
+        "G0047P9GKDL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0048BC2NNU"
+      ],
+      "gl_ids": [
+        "G0048VY8N1U"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00496QDY4L"
+      ],
+      "gl_ids": [
+        "G0049MCT64Z"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0050ELCQSE"
+      ],
+      "gl_ids": [
+        "G00503TV1ES"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0051GW6M7B"
+      ],
+      "gl_ids": [
+        "G00515C81JH"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00529ENULQ"
+      ],
+      "gl_ids": [
+        "G0052JIDKNW"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0053KADEJN"
+      ],
+      "gl_ids": [
+        "G0053OBBUNK"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0054SF6F7L"
+      ],
+      "gl_ids": [
+        "G0054OW4VSS"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0055FYB8DA"
+      ],
+      "gl_ids": [
+        "G0055LFYO17"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0056KK791Z"
+      ],
+      "gl_ids": [
+        "G0056YRRU7Z"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0057WVIYTW"
+      ],
+      "gl_ids": [
+        "G0057BOZD1A"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00589OR787"
+      ],
+      "gl_ids": [
+        "G00585AUD9K"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00593SDYGF"
+      ],
+      "gl_ids": [
+        "G0059LIJI18"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0060F0VOTQ"
+      ],
+      "gl_ids": [
+        "G0060TXHI15"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0061SQCQ30"
+      ],
+      "gl_ids": [
+        "G0061O30UBM"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0062XMGTT0"
+      ],
+      "gl_ids": [
+        "G0062IAAKYT"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0063PT11F9"
+      ],
+      "gl_ids": [
+        "G0063I6UU13"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0064KGTII4"
+      ],
+      "gl_ids": [
+        "G0064FQCOOT"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0065K6HG00"
+      ],
+      "gl_ids": [
+        "G006516ZZOI"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0066KHIUIT"
+      ],
+      "gl_ids": [
+        "G00667M1R00"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0067SNWYWR"
+      ],
+      "gl_ids": [
+        "G0067RATATJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0068Y4X41D"
+      ],
+      "gl_ids": [
+        "G0068NTCAGR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00698V1ZOC"
+      ],
+      "gl_ids": [
+        "G0069FI4O6L"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0070PYXDW2"
+      ],
+      "gl_ids": [
+        "G0070ZCFZW0"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00710U9ISY"
+      ],
+      "gl_ids": [
+        "G0071GJJFGJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0072RGOL0W"
+      ],
+      "gl_ids": [
+        "G007282LK2N"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00732C9ROS"
+      ],
+      "gl_ids": [
+        "G00737YT2M6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0074QO1VSM"
+      ],
+      "gl_ids": [
+        "G0074ADO8E7"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0075U8IOGX"
+      ],
+      "gl_ids": [
+        "G0075PBWHVN"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0076W3ZKWD"
+      ],
+      "gl_ids": [
+        "G0076EEKGYS"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0077ORZPGU"
+      ],
+      "gl_ids": [
+        "G00772HBIK2"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0078J5D5E3"
+      ],
+      "gl_ids": [
+        "G0078H0Y4VP"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0079ZEFLI4"
+      ],
+      "gl_ids": [
+        "G0079OFWWNC"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0080RLKTE4"
+      ],
+      "gl_ids": [
+        "G0080261BW4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0081PDDHCV"
+      ],
+      "gl_ids": [
+        "G0081SQAME4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00827WPH6F"
+      ],
+      "gl_ids": [
+        "G0082E0MP2I"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0083WC5AML"
+      ],
+      "gl_ids": [
+        "G0083N4PTGQ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00849FLV1X"
+      ],
+      "gl_ids": [
+        "G0084XLP8II"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00853JCZUC"
+      ],
+      "gl_ids": [
+        "G0085QMRUNJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0086JCNS6G"
+      ],
+      "gl_ids": [
+        "G0086298CQK"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0087WYAM1N"
+      ],
+      "gl_ids": [
+        "G00870LH9P8"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00887O3LQI"
+      ],
+      "gl_ids": [
+        "G00887E1DDQ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0089J9BOQ0"
+      ],
+      "gl_ids": [
+        "G0089IQ2FA3"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0090GU3OBY"
+      ],
+      "gl_ids": [
+        "G0090GHGK5B"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00916SNGLH"
+      ],
+      "gl_ids": [
+        "G009162C9T1"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B00926BZ8UU"
+      ],
+      "gl_ids": [
+        "G0092G95RLR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0093VML90P"
+      ],
+      "gl_ids": [
+        "G0093XRLZU6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0094F0I9G5"
+      ],
+      "gl_ids": [
+        "G0094DZX5QJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0095KL8CGN"
+      ],
+      "gl_ids": [
+        "G00950T6DVW"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0096MPKXVH"
+      ],
+      "gl_ids": [
+        "G0096AGKC4L"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0097T43PT5"
+      ],
+      "gl_ids": [
+        "G0097R5RC6Z"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0098DUT4S7"
+      ],
+      "gl_ids": [
+        "G0098AZV2EF"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0099O5YBRJ"
+      ],
+      "gl_ids": [
+        "G0099NM2L44"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0100ZO2SUG"
+      ],
+      "gl_ids": [
+        "G01005HCBBM"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B010142HHIH"
+      ],
+      "gl_ids": [
+        "G0101XS58YR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0102UVKYRM"
+      ],
+      "gl_ids": [
+        "G0102JLJX8X"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0103YWR7MK"
+      ],
+      "gl_ids": [
+        "G0103GXUKQ0"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01046S5NKB"
+      ],
+      "gl_ids": [
+        "G01044EHOU6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01058NBHNA"
+      ],
+      "gl_ids": [
+        "G0105L3GYWI"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0106AI9HAS"
+      ],
+      "gl_ids": [
+        "G0106EZ2NX1"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0107P6SWK2"
+      ],
+      "gl_ids": [
+        "G0107RV239M"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0108QDGBK2"
+      ],
+      "gl_ids": [
+        "G0108L0D1B4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B010994D6RU"
+      ],
+      "gl_ids": [
+        "G0109PW2W55"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0110P0RXXF"
+      ],
+      "gl_ids": [
+        "G011036WA7S"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0111DOUADV"
+      ],
+      "gl_ids": [
+        "G0111WKSHY8"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0112R30OJH"
+      ],
+      "gl_ids": [
+        "G0112E4H3GM"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0113DXVL5P"
+      ],
+      "gl_ids": [
+        "G0113VYIOMK"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0114Z1UU7Z"
+      ],
+      "gl_ids": [
+        "G0114Y6T5PA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0115I22KX7"
+      ],
+      "gl_ids": [
+        "G0115N89LTA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0116BKJF4A"
+      ],
+      "gl_ids": [
+        "G0116Q7B7V1"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0117939AYQ"
+      ],
+      "gl_ids": [
+        "G01176WW8YL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0118Y15PDT"
+      ],
+      "gl_ids": [
+        "G0118Z91X70"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0119ZC7D2K"
+      ],
+      "gl_ids": [
+        "G0119D1POXR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0120K06MOX"
+      ],
+      "gl_ids": [
+        "G0120SFH4GG"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0121QWLVUN"
+      ],
+      "gl_ids": [
+        "G0121LPAIH0"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01223U1HBJ"
+      ],
+      "gl_ids": [
+        "G01226TXFO6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01231IJIYS"
+      ],
+      "gl_ids": [
+        "G01232N75BX"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0124SFFCXH"
+      ],
+      "gl_ids": [
+        "G0124GNZEI3"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01255038HV"
+      ],
+      "gl_ids": [
+        "G0125QRHOFU"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01265T1DX6"
+      ],
+      "gl_ids": [
+        "G0126TA7YPP"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0127Z2UEAX"
+      ],
+      "gl_ids": [
+        "G0127YLNFXJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0128DS22WY"
+      ],
+      "gl_ids": [
+        "G0128BOW23Q"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0129WYMX9D"
+      ],
+      "gl_ids": [
+        "G0129JOYOHA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B013053UY8U"
+      ],
+      "gl_ids": [
+        "G0130118QQV"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0131M6J8Y6"
+      ],
+      "gl_ids": [
+        "G0131RH05HH"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0132O1ESP7"
+      ],
+      "gl_ids": [
+        "G0132BM41QE"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0133GEUIDJ"
+      ],
+      "gl_ids": [
+        "G0133IPNF8F"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0134MU3MOM"
+      ],
+      "gl_ids": [
+        "G0134YVUXT9"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0135XZVO52"
+      ],
+      "gl_ids": [
+        "G013570SQG4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0136PESGBM"
+      ],
+      "gl_ids": [
+        "G013665Q57T"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0137MQA78R"
+      ],
+      "gl_ids": [
+        "G0137APKIAN"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0138EDQQZR"
+      ],
+      "gl_ids": [
+        "G0138LF8A9K"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01396JNA9Z"
+      ],
+      "gl_ids": [
+        "G0139N9I9H0"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0140GJE2AB"
+      ],
+      "gl_ids": [
+        "G01402RVNDF"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0141JBZUTR"
+      ],
+      "gl_ids": [
+        "G0141UTLQ5V"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01421FKOLD"
+      ],
+      "gl_ids": [
+        "G0142XB7GBD"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B014332CWT0"
+      ],
+      "gl_ids": [
+        "G01434CHSDI"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B014476T94O"
+      ],
+      "gl_ids": [
+        "G0144W3LITN"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0145DQFJ6I"
+      ],
+      "gl_ids": [
+        "G0145JKUUHC"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0146WWBSLU"
+      ],
+      "gl_ids": [
+        "G0146LZFY98"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0147U9SIJP"
+      ],
+      "gl_ids": [
+        "G0147YUEONG"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0148AYEQAH"
+      ],
+      "gl_ids": [
+        "G0148THSJR0"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0149IN9DL5"
+      ],
+      "gl_ids": [
+        "G0149TGSQ7A"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0150MOE0SY"
+      ],
+      "gl_ids": [
+        "G01505YPUPL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0151G4FBL9"
+      ],
+      "gl_ids": [
+        "G01518K03W0"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0152EGB1AJ"
+      ],
+      "gl_ids": [
+        "G0152O091C7"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01535IT9BN"
+      ],
+      "gl_ids": [
+        "G015318GP51"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01545DLXZF"
+      ],
+      "gl_ids": [
+        "G01540DZWDZ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01558A1ARR"
+      ],
+      "gl_ids": [
+        "G01553VRHXQ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0156YVYV2G"
+      ],
+      "gl_ids": [
+        "G0156QU7DKN"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0157P4JUW7"
+      ],
+      "gl_ids": [
+        "G0157WR0R35"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01581ELOU8"
+      ],
+      "gl_ids": [
+        "G01583G47RR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01594MNTFV"
+      ],
+      "gl_ids": [
+        "G0159GE2L4Z"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01601F537Y"
+      ],
+      "gl_ids": [
+        "G0160E0QZSA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0161E8UDTT"
+      ],
+      "gl_ids": [
+        "G0161J72UGL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0162UD2ZDL"
+      ],
+      "gl_ids": [
+        "G0162X1Q8F6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01632TOOWT"
+      ],
+      "gl_ids": [
+        "G01639NM3V2"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0164RXD356"
+      ],
+      "gl_ids": [
+        "G0164WAFFTO"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0165AU9DKB"
+      ],
+      "gl_ids": [
+        "G0165PVWZOP"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B016646Z7WQ"
+      ],
+      "gl_ids": [
+        "G0166P3NIPA"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0167IWXYYT"
+      ],
+      "gl_ids": [
+        "G0167UW6TAQ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0168EC2JWJ"
+      ],
+      "gl_ids": [
+        "G0168J0V60X"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0169BJ3BQR"
+      ],
+      "gl_ids": [
+        "G0169R87IYO"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0170QYIY1S"
+      ],
+      "gl_ids": [
+        "G0170Y9LAAC"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01716ZJQ7W"
+      ],
+      "gl_ids": [
+        "G01717JP61L"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0172ZDCUJQ"
+      ],
+      "gl_ids": [
+        "G01726FX7XJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0173W8DT8C"
+      ],
+      "gl_ids": [
+        "G0173Q1XGBN"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0174MMZOHX"
+      ],
+      "gl_ids": [
+        "G0174S75T0I"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0175CHM40O"
+      ],
+      "gl_ids": [
+        "G0175EYTL8H"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0176ZVKY2R"
+      ],
+      "gl_ids": [
+        "G0176EFJQIG"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01772Y8RGY"
+      ],
+      "gl_ids": [
+        "G0177BXKPM2"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01785NHQR6"
+      ],
+      "gl_ids": [
+        "G0178F7QNEZ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0179D4R9V4"
+      ],
+      "gl_ids": [
+        "G0179K00ILU"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0180EKXDRK"
+      ],
+      "gl_ids": [
+        "G0180Z40AQ1"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0181S6NBNQ"
+      ],
+      "gl_ids": [
+        "G0181BNXZU1"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0182QT36QN"
+      ],
+      "gl_ids": [
+        "G0182YY95G5"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0183GA24SM"
+      ],
+      "gl_ids": [
+        "G0183UX2RXT"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0184FE9UPN"
+      ],
+      "gl_ids": [
+        "G0184HZX9FQ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0185MERBYE"
+      ],
+      "gl_ids": [
+        "G0185AWHMLV"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0186NAMLQU"
+      ],
+      "gl_ids": [
+        "G0186H50OPF"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0187H3KR3K"
+      ],
+      "gl_ids": [
+        "G0187VR0I2F"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0188N0AJUF"
+      ],
+      "gl_ids": [
+        "G0188QYMBNW"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0189ASNRM6"
+      ],
+      "gl_ids": [
+        "G0189DFHG6W"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0190I4FIEE"
+      ],
+      "gl_ids": [
+        "G0190CY2C11"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01918MFS0I"
+      ],
+      "gl_ids": [
+        "G0191UDUAHG"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0192QSRNKZ"
+      ],
+      "gl_ids": [
+        "G0192CRNQ0Y"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B019306GNHH"
+      ],
+      "gl_ids": [
+        "G01934OIPR1"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0194RAGVLK"
+      ],
+      "gl_ids": [
+        "G0194W1XSRQ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0195ZRDYXY"
+      ],
+      "gl_ids": [
+        "G0195UR4SOR"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0196XV6CKM"
+      ],
+      "gl_ids": [
+        "G0196ALQ5U6"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B01974TKB9O"
+      ],
+      "gl_ids": [
+        "G0197I0D4DM"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0198H80Q7T"
+      ],
+      "gl_ids": [
+        "G0198W1PUWS"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0199QUPXBF"
+      ],
+      "gl_ids": [
+        "G0199EJ2XG4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0200RDV1L3"
+      ],
+      "gl_ids": [
+        "G02000307HD"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B02014X7Y2I"
+      ],
+      "gl_ids": [
+        "G0201TL8N3E"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0202QO4Z53"
+      ],
+      "gl_ids": [
+        "G02023ZSMV3"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0203Q5EGVL"
+      ],
+      "gl_ids": [
+        "G0203KDNON4"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0204173RIH"
+      ],
+      "gl_ids": [
+        "G020483J0NP"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0205Z0JDCL"
+      ],
+      "gl_ids": [
+        "G0205I6978V"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0206BE5407"
+      ],
+      "gl_ids": [
+        "G0206K5W1JL"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0207QEZFMH"
+      ],
+      "gl_ids": [
+        "G0207K403UX"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0208Q8VA8X"
+      ],
+      "gl_ids": [
+        "G02088L008U"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0209076VMD"
+      ],
+      "gl_ids": [
+        "G0209NHQNJV"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B02104SKBCB"
+      ],
+      "gl_ids": [
+        "G0210DPDXUJ"
+      ],
+      "type": "exact"
+    },
+    {
+      "bank_ids": [
+        "B0211JYPAOA"
+      ],
+      "gl_ids": [
+        "G0211XQOX00"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0212GKQRAF"
+      ],
+      "gl_ids": [
+        "G0212FZ8Q4V"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0213AUTJX6"
+      ],
+      "gl_ids": [
+        "G0213EWXQPF"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0214WK0YEH"
+      ],
+      "gl_ids": [
+        "G0214VDO9KH"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B02155VDB82"
+      ],
+      "gl_ids": [
+        "G02158192V4"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0216I3MSDN"
+      ],
+      "gl_ids": [
+        "G02161MXF1P"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0217XX6CWZ"
+      ],
+      "gl_ids": [
+        "G0217XSKOYT"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0218TOZ5ST"
+      ],
+      "gl_ids": [
+        "G0218HSLMWA"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B02199U6WTV"
+      ],
+      "gl_ids": [
+        "G0219MK2ZYZ"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0220VW9Y80"
+      ],
+      "gl_ids": [
+        "G0220PFSRQ8"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0221FVB66H"
+      ],
+      "gl_ids": [
+        "G02213REM5P"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0222T860X5"
+      ],
+      "gl_ids": [
+        "G0222ZU2ZUE"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0223LVR7MG"
+      ],
+      "gl_ids": [
+        "G0223ATND9T"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0224VR1NEC"
+      ],
+      "gl_ids": [
+        "G0224QOROI5"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B02258WXGC7"
+      ],
+      "gl_ids": [
+        "G0225JJY94H"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0226MQVAYX"
+      ],
+      "gl_ids": [
+        "G0226AR6YO6"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0227QHAK7M"
+      ],
+      "gl_ids": [
+        "G0227DWKZIR"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0228JUIS2G"
+      ],
+      "gl_ids": [
+        "G0228Y9YTJU"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0229HCUA09"
+      ],
+      "gl_ids": [
+        "G0229PCIFLW"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B02307N6Y2C"
+      ],
+      "gl_ids": [
+        "G02302BVPDC"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0231AZV46E"
+      ],
+      "gl_ids": [
+        "G0231SMRWGE"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0232PHH62M"
+      ],
+      "gl_ids": [
+        "G0232YZ9VLU"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0233NCBEKG"
+      ],
+      "gl_ids": [
+        "G0233V1BBHG"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B023455CF72"
+      ],
+      "gl_ids": [
+        "G0234GNNV9I"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B02351NSGZS"
+      ],
+      "gl_ids": [
+        "G0235R8RUW2"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0236QPNRJA"
+      ],
+      "gl_ids": [
+        "G0236PJC6KS"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B023732OOUX"
+      ],
+      "gl_ids": [
+        "G0237QS1FOI"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0238RXMIP1"
+      ],
+      "gl_ids": [
+        "G02381YKVUB"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0239G3VAH6"
+      ],
+      "gl_ids": [
+        "G0239NHKSQN"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B0240YJAFCO"
+      ],
+      "gl_ids": [
+        "G02403S65QU"
+      ],
+      "type": "fuzzy"
+    },
+    {
+      "bank_ids": [
+        "B02414OAE7L",
+        "B0242QQCXZP",
+        "B024334GADK"
+      ],
+      "gl_ids": [
+        "G0241I5JWK6"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0244BA3YC8",
+        "B024523GGOD"
+      ],
+      "gl_ids": [
+        "G0242YFMHBY"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0246DLWN71",
+        "B0247LW5L4R"
+      ],
+      "gl_ids": [
+        "G02437OPIDL"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0248X1S9XK",
+        "B0249I0MHB7"
+      ],
+      "gl_ids": [
+        "G0244S0SZAA"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B02502C9OGP",
+        "B0251VPF8R1"
+      ],
+      "gl_ids": [
+        "G0245GWCR8B"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0252E7F181",
+        "B0253MZWNCN",
+        "B02540IB3WY"
+      ],
+      "gl_ids": [
+        "G02460JQQNV"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0255U23JH0",
+        "B0256L93ACZ"
+      ],
+      "gl_ids": [
+        "G0247FIUXFE"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0257YDC1AU",
+        "B0258DSAV91"
+      ],
+      "gl_ids": [
+        "G0248NZHG8Q"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0259AW7LW5",
+        "B0260LPVOWC",
+        "B026177RXZD"
+      ],
+      "gl_ids": [
+        "G0249YMLINO"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0262HJR6EE",
+        "B0263WR2LIU",
+        "B0264CM600X"
+      ],
+      "gl_ids": [
+        "G025052ZBRD"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0265L3KHYF",
+        "B0266FX2ZVL",
+        "B0267E9ZR3R"
+      ],
+      "gl_ids": [
+        "G0251DD070E"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0268TDL25B",
+        "B0269KXUPR6"
+      ],
+      "gl_ids": [
+        "G02523H03ZB"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0270NY2X15",
+        "B0271NWQAEE"
+      ],
+      "gl_ids": [
+        "G02530UY9F8"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0272HXE5ZA",
+        "B02732EEHFU"
+      ],
+      "gl_ids": [
+        "G0254RYDVN9"
+      ],
+      "type": "one_to_many"
+    },
+    {
+      "bank_ids": [
+        "B0274VHMEWC",
+        "B0275JXFQ8Y"
+      ],
+      "gl_ids": [
+        "G0255G9XIB8"
+      ],
+      "type": "one_to_many"
+    }
+  ],
+  "exceptions": [
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0276JWXZUX"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0277PAVCED"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G025662F2JD"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0257Y2T5OV"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0258SZ7IWD"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B02785ZOW60"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0259X798YB"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0279H0UHK7"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0280MWLMA6"
+      ],
+      "cause": "bank_fee"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0281RDSFER"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0282KPG3DP"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0260A5ZDKE"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0261AFS1IY"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0283VG4WFE"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0262FAH5NS"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0263VPJRME"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B02847CTM09"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0285PZ614U"
+      ],
+      "cause": "duplicate"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G02646CP7SA"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0265FHZ52Q"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0286MVNCZT"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0287WAM0KJ"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0288Y8JWVH"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0266W4OQ0P"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0267DS03VN"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0289PFLFCY"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0290D5OAII"
+      ],
+      "cause": "timing"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G02687YYZ6R"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0269JRNJ62"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0270YO2M2X"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B02917CM453"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G027186I3CE"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G02720ZKOM2"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0273N80OCO"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0274DHA6GH"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G02750D3FVN"
+      ],
+      "cause": "fx_variance"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0276W7BZYI"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0292CZQ991"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0277B4O47E"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G0278CNQDQX"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0293U91C32"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "gl",
+      "record_ids": [
+        "G02798YJWDC"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0294OA2VCY"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B0295QF5E8O"
+      ],
+      "cause": "missing_invoice"
+    },
+    {
+      "side": "bank",
+      "record_ids": [
+        "B02968DH9PT"
+      ],
+      "cause": "missing_invoice"
+    }
+  ]
+}
